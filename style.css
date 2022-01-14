@@ -1,0 +1,102 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+#carta{
+    background-color:hsl(216, 50%, 16%) ;
+    text-align: center;
+    border-radius: 25px;
+    
+    margin: 0 auto;
+    max-width: 350px;
+    
+}
+#img-nft{
+    width: 18rem;
+    margin-top: 1.5em;
+    border-radius: 15px;   
+}
+#equilibrium-nb{
+    color: white;
+    /* display: flex; */
+    text-align: left;
+    
+    max-width: 80%;
+    margin:1.5rem auto;
+    
+    
+}
+
+#carta p{
+    color: hsl(215, 51%, 70%);
+    text-align: left;
+    max-width: 80%;
+    margin:1.5rem auto;   
+    font-weight:200; 
+}
+#contenitore2{
+    display: flex;
+    justify-content: space-between;
+    max-width: 80%;
+    margin: 1.5rem auto;
+    border-bottom: solid 1px;
+    border-color:hsla(215, 52%, 70%, 0.705) ;
+    padding-bottom: 15px;
+
+    
+}
+
+#bilancio img{
+    margin-left: 10px;
+    margin-right:10px;
+    position: relative;
+    top: 2px;
+}
+#bilancio span{
+    color: hsl(178, 100%, 50%);
+}
+#giorni-rimanenti img{
+    margin-left: 10px;
+    margin-right:10px;
+    position: relative;
+    top: 2px;
+   
+}
+#giorni-rimanenti span{
+    color: hsl(215, 51%, 70%);
+}
+
+
+#creationby{
+    
+    width: 80%;
+    
+    display: flex;
+    margin: auto;
+    padding-bottom: 0.8rem;
+    
+}
+#creationby img{
+    display: block;
+    margin: 0 0.5rem;
+    
+}
+
+
+
+#creationby span b{
+    color: hsl(0, 0%, 100%);
+   
+}
+#creationby span {
+    color: hsl(215, 51%, 70%);
+   
+}
+
+
+#avatar{
+    width: 10%;
+    border: solid 1px;
+    border-radius: 50%;
+    border-color: white;
+}
